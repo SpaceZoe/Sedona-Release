@@ -7,7 +7,11 @@ After starting to practice small emotional releases in my own life, I wanted to 
 
 ## 🧠 Project Story
 
-I study **Data Science**, which is usually logical and structured, but recently I’ve been exploring something softer, emotional awareness and letting go.  
+I recently recommended The Sedona Method to a few friends, and I realized how much a small, guided tool could help people apply its simple emotional releasing technique — even if they haven’t read the book.
+
+Everyone sometimes faces sudden emotional tension or stress. This tool offers a few calm, structured questions that guide you back toward a more peaceful inner state, in just a few moments.
+
+After practicing several rounds of Sedona releasing myself, I noticed how each “letting go” brings me a bit closer to clarity and calm. I wanted to make that experience accessible and effortless for others too.
 
 1. Used **GPT-5** to generate the first React + Tailwind prototype.  
 2. Iteratively refined the design and transitions through several rebuilds.  
