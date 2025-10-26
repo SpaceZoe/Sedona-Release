@@ -48,4 +48,3 @@ I just wanted to make something quiet, warm, and personal, where is a space for 
 > 🌅 “Letting go is not doing, but allowing.” — *The Sedona Method*  
 >  
 > Built with curiosity, calmness, and GPT-5’s quiet help ✨  
-> — *Zoe / 2025*
